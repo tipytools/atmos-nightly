@@ -1,0 +1,21 @@
+{
+  "name": "atmos-nightly",
+  "displayName": "Atmos Nightly",
+  "description": "A color theme for atmos developers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atmo Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atmo Green-color-theme.json"
+      }
+    ]
+  }
+}
